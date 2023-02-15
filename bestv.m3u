@@ -67,6 +67,8 @@ https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
 https://live.v1.mk/api/bestv.php?id=scwshd/8000000
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/贵州卫视" tvg-id="贵州卫视" tvg-name="贵州卫视",贵州卫视
 https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
+#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖北卫视" tvg-id="湖北卫视" tvg-name="湖北卫视",湖北卫视
+https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/辽宁卫视" tvg-id="辽宁卫视" tvg-name="辽宁卫视",辽宁卫视
 https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/广西卫视" tvg-id="广西卫视" tvg-name="广西卫视",广西卫视
