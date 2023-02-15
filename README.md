@@ -1,13 +1,5 @@
-# atv
-基于[肥羊影音数码](https://youshandefeiyang.github.io/)，仅保留CCTV&地方卫视1080p以上源。CCTV按照台号排序，地方卫视参考[中国视听大数据2022年收视年报](http://www.cavbd.cn/news/20230111ssnb.html)中地方卫视收视率全天排行排序。
-
-百度：[链接]（https://raw.githubusercontent.com/Herakleitus/atv/main/baidu.m3u）
-百事通：[链接]（https://raw.githubusercontent.com/Herakleitus/atv/main/bestv.m3u）
-歌华有线：[链接]（https://raw.githubusercontent.com/Herakleitus/atv/main/ghyx.m3u）
-爱上电视传媒：[链接]（https://raw.githubusercontent.com/Herakleitus/atv/main/aishang.m3u）
-
 | 电视台/源 | 百度 | 百视通 | 歌华有线 | 爱上传媒 |
-| ----  |  ----  |  ----  |  ----  |  ----  |
+| :----  |  :---:  |  :---:  |  :---:  |  :---:  |
 | CCTV-4k  |  √  |  √  |  ×  |  √  |
 | CCTV-1  |  √  |  √  |  √  |  √   |
 | CCTV-2  |  √  |  √  |  √  |  √   |
