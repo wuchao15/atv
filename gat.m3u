@@ -1,19 +1,11 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1,凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1,凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,澳门莲花
-http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1,台湾番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 #EXTINF:-1,安徽经济生活
 http://stream.ahwanyun.cn/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 #EXTINF:-1,安徽综艺体育
 http://stream.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1,安徽影视频道
 http://stream.ahwanyun.cn/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-#EXTINF:-1,安徽公共频道
-http://stream.ahwanyun.cn/live/7f6926bc79174b03a212fe2aad0b62b6/hls.m3u8
-#EXTINF:-1,安徽农业科教
-http://stream.ahwanyun.cn/live/b4bd9bfcda3b467d8f358db687750226/hls.m3u8
+#EXTINF:-1,凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1,凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
