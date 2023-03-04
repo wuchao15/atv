@@ -37,7 +37,7 @@ https://live.v1.mk/aishang/cctv164k
 https://live.v1.mk/aishang/cctv16hd
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV17" group-title="央视",CCTV-17
 https://live.v1.mk/aishang/cctv17hd
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" group-title="卫视",湖南卫视
 https://live.v1.mk/aishang/hunwshd
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东方卫视" group-title="卫视",东方卫视
 https://live.v1.mk/aishang/dfwshd
