@@ -39,7 +39,7 @@ https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV17" group-title="央视",CCTV-17
 https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/湖南卫视" group-title="卫视",湖南卫视
 https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东方卫视" group-title="卫视",东方卫视
 https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
